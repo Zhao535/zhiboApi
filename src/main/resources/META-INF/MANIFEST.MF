@@ -1,0 +1,49 @@
+Manifest-Version: 1.0
+Main-Class: cn.maidaotech.smartapi.App
+Class-Path: jackson-annotations-2.11.2.jar aliyun-java-sdk-core-4.5.3.ja
+ r antlr-2.7.7.jar spring-jcl-5.2.9.RELEASE.jar jackson-datatype-jsr310-
+ 2.11.2.jar opentest4j-1.2.0.jar activation-1.1.jar jakarta.activation-a
+ pi-1.2.2.jar fastjson-1.2.68.jar opentracing-api-0.33.0.jar tomcat-embe
+ d-websocket-9.0.38.jar jakarta.persistence-api-2.2.3.jar spring-boot-st
+ arter-tomcat-2.3.4.RELEASE.jar hibernate-core-5.4.21.Final.jar spring-t
+ x-5.2.9.RELEASE.jar jackson-dataformat-yaml-2.11.2.jar mysql-connector-
+ java-5.1.25.jar dom4j-2.1.3.jar jettison-1.1.jar spring-core-5.2.9.RELE
+ ASE.jar javax.activation-api-1.2.0.jar opentracing-noop-0.33.0.jar clas
+ smate-1.5.1.jar junit-jupiter-params-5.6.2.jar reactor-core-3.3.10.RELE
+ ASE.jar okhttp-3.9.1.jar guava-20.0.jar log4j-api-2.13.3.jar jakarta.ac
+ tivation-1.2.2.jar aspectjweaver-1.9.6.jar gson-2.8.6.jar spring-boot-a
+ utoconfigure-2.3.4.RELEASE.jar spring-boot-starter-web-2.3.4.RELEASE.ja
+ r jakarta.transaction-api-1.3.3.jar tomcat-embed-core-9.0.38.jar okio-1
+ .13.0.jar spring-beans-5.2.9.RELEASE.jar spring-web-5.2.9.RELEASE.jar a
+ liyun-java-sdk-ram-3.0.0.jar apiguardian-api-1.1.0.jar jackson-datatype
+ -jdk8-2.11.2.jar commons-codec-1.14.jar spring-aspects-5.2.6.RELEASE.ja
+ r spring-boot-starter-jdbc-2.3.4.RELEASE.jar lombok-1.18.12.jar logback
+ -classic-1.2.3.jar jdom-1.1.jar redisson-2.5.1.jar jsoup-1.10.2.jar spr
+ ing-boot-starter-json-2.3.4.RELEASE.jar commons-logging-1.2.jar byte-bu
+ ddy-1.10.14.jar ini4j-0.5.4.jar jodd-bean-3.7.1.jar jodd-core-3.7.1.jar
+  jackson-core-2.11.2.jar zero-allocation-hashing-0.5.jar hamcrest-2.2.j
+ ar aliyun-java-sdk-sts-3.0.0.jar spring-orm-5.2.9.RELEASE.jar spring-co
+ ntext-5.2.9.RELEASE.jar reactor-stream-2.0.8.RELEASE.jar httpcore-4.4.1
+ 3.jar junit-4.13.jar log4j-to-slf4j-2.13.3.jar mail-1.4.7.jar spring-bo
+ ot-starter-logging-2.3.4.RELEASE.jar jakarta.annotation-api-1.3.5.jar h
+ amcrest-core-2.2.jar spring-data-commons-2.3.4.RELEASE.jar netty-resolv
+ er-4.1.52.Final.jar spring-webmvc-5.2.9.RELEASE.jar logback-core-1.2.3.
+ jar jul-to-slf4j-1.7.30.jar jaxb-runtime-2.3.3.jar commons-pool2-2.8.1.
+ jar spring-boot-starter-data-jpa-2.3.4.RELEASE.jar httpclient-4.5.12.ja
+ r aliyun-java-sdk-ecs-4.2.0.jar org.jacoco.agent-0.8.5-runtime.jar ista
+ ck-commons-runtime-3.0.11.jar spring-aop-5.2.9.RELEASE.jar commons-lang
+ -2.6.jar spring-boot-2.3.4.RELEASE.jar opentracing-util-0.33.0.jar juni
+ t-platform-commons-1.6.2.jar jboss-logging-3.4.1.Final.jar spring-boot-
+ starter-2.3.4.RELEASE.jar netty-transport-4.1.52.Final.jar spring-data-
+ jpa-2.3.4.RELEASE.jar ss-commons-0.2.6.jar slf4j-api-1.7.30.jar netty-h
+ andler-4.1.52.Final.jar spring-expression-5.2.9.RELEASE.jar HikariCP-3.
+ 4.5.jar jaxb-api-2.3.1.jar reactive-streams-1.0.3.jar stax-api-1.0.1.ja
+ r txw2-2.3.3.jar snakeyaml-1.26.jar hibernate-commons-annotations-5.1.0
+ .Final.jar jedis-2.9.0.jar reflections-0.9.11.jar netty-common-4.1.52.F
+ inal.jar commons-lang3-3.10.jar jakarta.xml.bind-api-2.3.3.jar jakarta.
+ el-3.0.3.jar spring-boot-starter-aop-2.3.4.RELEASE.jar aliyun-sdk-oss-3
+ .8.0.jar spring-jdbc-5.2.9.RELEASE.jar netty-codec-4.1.52.Final.jar jan
+ dex-2.1.3.Final.jar junit-jupiter-api-5.6.2.jar jackson-databind-2.11.2
+ .jar javassist-3.21.0-GA.jar netty-buffer-4.1.52.Final.jar jackson-modu
+ le-parameter-names-2.11.2.jar
+
