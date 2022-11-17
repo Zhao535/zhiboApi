@@ -17,6 +17,10 @@ public class AdmAdminController extends BaseController {
     @Autowired
     private AdminService adminService;
 
+
+
+    
+
     @AdminAuthentication({AdminPermission.ADMIN_EDIT,AdminPermission.ADMIN_LIST})
     @RequestMapping(value = "save")
     public ModelAndView save(String admin) throws Exception {
